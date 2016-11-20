@@ -68,12 +68,12 @@
 
 @font-face {
     font-family: WizardsMagic;
-    src: url('Fonts/Wizards Magic.ttf');
+    src: url('fonts/Wizards Magic.ttf');
 }
 
 @font-face {
     font-family: KeepCalm-Medium;
-    src: url('Fonts/KeepCalm-Medium.ttf');
+    src: url('fonts/KeepCalm-Medium.ttf');
 }
 
 /*-------------------------------------------------------HEADER---------------------------------------------------------*/
